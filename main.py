@@ -1,8 +1,9 @@
 def main():
     """
     ##################################################
-    # Comlete your code here
-    Use the same variables: celcius fahrenheit 
+    celsius = 23
+    fahrenheit = 9/5 * celsius +32 
+    print (fahrenheit)
     ##################################################
     """
 
